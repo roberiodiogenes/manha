@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+header, main, footer{
+    /* Largura das tags */
+    width: 900px;
+
+    /* Cor de fundo */
+    background-color: bisque;
+
+    /* Centralizar as tags no centro da página */
+    margin: auto;
+
+    /* Mudar a cor da fonte */
+    color: rgb(33, 11, 11);
+}
+
+img{
+    /* Largura das imagens */
+    width: 100%;
+}
+
+iframe{
+    width: 100%;
+}
